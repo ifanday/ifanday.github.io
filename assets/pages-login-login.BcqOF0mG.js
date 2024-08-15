@@ -1,0 +1,1 @@
+import{d as s,o as a,c as o,w as e,i as t,l}from"./index-D9c3EX4s.js";import{_ as n}from"./_plugin-vue_export-helper.BCo6x5W8.js";const r=n(s({__name:"login",setup:s=>(s,n)=>{const r=t;return a(),o(r,{class:"login"},{default:e((()=>[l("login")])),_:1})}}),[["__scopeId","data-v-dc6c6f8d"]]);export{r as default};
